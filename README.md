@@ -1,6 +1,6 @@
 # host_manager
 
-用于管理企业内部的主机的 Python 项目。
+用于管理企业内部的主机的 Python 项目，django框架，使用celery管理定时任务。
 
 ## 项目简介
 
