@@ -14,9 +14,9 @@
 - 统计每个请求的请求耗时的中间件
 
 ## API接口
--使用rest_framework标准返回
--增加DjangoFilterBackend条件查询
--使用drf_spectacular自动生成api使用说明，地址为"ip:port/swagger/"如图所示:
+- 使用rest_framework标准返回
+- 增加DjangoFilterBackend条件查询
+- 使用drf_spectacular自动生成api使用说明，地址为"ip:port/swagger/"如图所示:
 ![image](https://github.com/user-attachments/assets/a0f55957-d1b0-4934-9480-570188aa42d7)
 
 ## 安装方法
