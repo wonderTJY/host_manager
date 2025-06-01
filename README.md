@@ -46,7 +46,7 @@
    ```bash
    celery -A host_manager.celery worker --pool=solo -l info
    ```
---pool=solo防止windows报错
+- --pool=solo防止windows报错
 
 ## 目录结构
 
